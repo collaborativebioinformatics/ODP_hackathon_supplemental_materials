@@ -42,14 +42,14 @@ A curated collection of resources for the Open Data Knowledge Graph hackathon pa
 
 ## 🎥 Videos and Talks
 
-- **Web-Scale Data Integration in Life Sciences**
-- **Transformer-Based Knowledge Graph Engines for Biomedicine**
-- **Building GraphRAG solutions using Amazon Bedrock knowledge bases and Amazon Neptune analytics**
+- **[Web-Scale Data Integration in Life Sciences](https://www.youtube.com/watch?v=aeL2MBYy6_k&t=213s)**
+- **[Transformer-Based Knowledge Graph Engines for Biomedicine](https://www.nvidia.com/en-us/on-demand/session/other2022-hcls22-s6/)**
+- **[Building GraphRAG solutions using Amazon Bedrock knowledge bases and Amazon Neptune analytics](https://www.youtube.com/watch?v=jknn9ZW_23U)**
 
 ## 📋 Registries
 
 - **[Knowledge Graph Registry](https://kghub.org/kg-registry/)**
-- **[AWS Open Data Genomic Datasets Registry](https://registry.opendata.aws/tag/genomic/)**
+- **[AWS Open Data Genomic Datasets](https://registry.opendata.aws/tag/genomic/)**
 - **[Information Resource Registry](https://github.com/biolink/information-resource-registry)**
 - **[Reusable Data](https://reusabledata.org/)**
 
@@ -74,6 +74,7 @@ A curated collection of resources for the Open Data Knowledge Graph hackathon pa
 ## 🚀 NVIDIA Resources for PyG RAG
 
 - **[PyG Container](https://catalog.ngc.nvidia.com/orgs/nvidia/containers/pyg/tags?version=25.09-py3)**
-- **New module:** `torch_geometric.llm`
-- **Example:** `examples/llm/txt2kg_rag.py`
-- **[NVIDIA On-Demand Session](https://www.nvidia.com/en-us/on-demand/session/other25-nv-0003/)**
+- **New module: Check out the new 25.09 NVIDIA PyG container. This includes the latest GNN+LLM features. See examples/llm/README.md in PyG Github or inside the container itself.**
+- **New module for Graph ML enhanced RAG** `torch_geometric.llm`
+- **Example for full e2e GNN infused RAG pipeline including KG creation, Retrieval, GNN+LLM Finetuning, and Question Answering Evaluation using an LLM judge** `examples/llm/txt2kg_rag.py`
+- **[Graph Neural Networks & LLMs in PyG](https://www.nvidia.com/en-us/on-demand/session/other25-nv-0003/)**
