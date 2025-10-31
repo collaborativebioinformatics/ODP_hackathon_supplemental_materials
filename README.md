@@ -1,6 +1,6 @@
 # 🧬 ODP Knowledge Graph Hackathon Supplemental Materials
 
-A curated collection of resources for the Open Data Knowledge Graph hackathon participants.
+A curated collection of resources originally put together for the Open Data Knowledge Graph hackathon. This list includes relevant literature, github repos, technical blogs, videos, tools, and workspace resources that can help you learn more about knowledge graphs for biomedical datasets. 
 
 ## 📚 Relevant Literature and GitHub Repositories
 
