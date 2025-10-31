@@ -11,36 +11,33 @@ A curated collection of resources for the Open Data Knowledge Graph hackathon pa
 - **[Petagraph](https://doi.org/10.1038/s41597-024-04070-w)** - Stear, B.J., et al. (2024)
 - **[Petagraph Data Source Descriptions](https://github.com/TaylorResearchLab/Petagraph/tree/main/Scientific_Data_2024)** - Stear BJ, Mohseni Ahooyi T, Taylor DM
 - **[Petagraph Project](https://github.com/TaylorResearchLab/Petagraph)** - Stear BJ, Mohseni Ahooyi T, Taylor DM
-
-## 🎯 Related Cancer Pathway and Drug Prediction Work
-
 - **[BioHackrXiv Preprint](https://osf.io/preprints/biohackrxiv/c5wtr_v1)** - Validating Subtype Specific Oncology Drug Predictions
 - **[OSF Project](https://osf.io/vtq5f/download)** - Oncomatch- Optimizing Oncology Combination Therapy Prediction
 - **[GSoC 2025](https://github.com/SuhasiniLulla/GSoC_2025)** - Generate Gene and Pathway Lists for OncoTree Codes using LLM Prompting
-
-## 📖 Relevant Knowledge Graph Literature
-
-- **An Open Source Knowledge Graph Ecosystem for the Life Sciences** (Nature Scientific Data, 2024)
-- **KG-Hub—Building and Exchanging Biological Knowledge Graphs** (Bioinformatics, 2023)
-- **PrimeKG—A Multimodal Knowledge Graph for Precision Medicine Analyses** (Nature Scientific Data, 2023)
-- **Knowledge Graphs for the Life Sciences: Recent Developments and Future Directions** (Dagstuhl, TGDK, 2023)
-- **PubMed Knowledge Graph 2.0** (Nature Scientific Data, 2025)
+- **[An Open Source Knowledge Graph Ecosystem for the Life Sciences](https://www.nature.com/articles/s41597-024-03171-w)** (Nature Scientific Data, 2024)
+- **[KG-Hub—Building and Exchanging Biological Knowledge Graphs](https://pmc.ncbi.nlm.nih.gov/articles/PMC10336030/)** (Bioinformatics, 2023)
+- **[PrimeKG—A Multimodal Knowledge Graph for Precision Medicine Analyses](https://www.nature.com/articles/s41597-023-01960-3)** (Nature Scientific Data, 2023)
+- **[Knowledge Graphs for the Life Sciences: Recent Developments and Future Directions](https://drops.dagstuhl.de/entities/document/10.4230/TGDK.1.1.5)** (Dagstuhl, TGDK, 2023)
+- **[PubMed Knowledge Graph 2.0](https://www.nature.com/articles/s41597-025-05343-8)** (Nature Scientific Data, 2025)
+- **[Biolink Model: A universal schema for knowledge graphs in clinical, biomedical, and translational science](https://ascpt.onlinelibrary.wiley.com/doi/10.1111/cts.13302)** (Clin Transl Sci. 2022)
 - **[Biolink Model](https://biolink.github.io/biolink-model/)**
-- **Open Source Knowledge Graph Ecosystem for Life Sciences** (PheKnowLator)
-- **Data-centered Knowledge Graphs for Drug/Chemical Development**
+- **[Open Source Knowledge Graph Ecosystem for Life Sciences - PheKnowLator](https://pubmed.ncbi.nlm.nih.gov/38605048/)** (Nature Scientific data, 2024)
+- **[Data-centered Knowledge Graphs for Drug/Chemical Development](https://www.sciencedirect.com/science/article/pii/S2001037022003956)** (Computational and Structural Biotechnology Journal, 2022)
+- **[mosGraphGPT: a foundation model for multi-omic signaling graphs using generative AI](https://pmc.ncbi.nlm.nih.gov/articles/PMC11326168/)**
 - **[mosGraphGPT](https://github.com/FuhaiLiAiLab/mosGraphGPT)**
+- **[KG-Microbe - Building Modular and Scalable Knowledge Graphs for Microbiome and Microbial Sciences](https://www.biorxiv.org/content/10.1101/2025.02.24.639989v1)** 
 - **[KG-Microbe](https://github.com/Knowledge-Graph-Hub/kg-microbe)**
-- **Improving Biomedical Knowledge Graph Quality: A Community Approach**
-- **[G-Retriever](https://arxiv.org/pdf/2402.07630)**
+- **[Improving Biomedical Knowledge Graph Quality: A Community Approach](https://arxiv.org/abs/2508.21774)**
+- **[G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering](https://arxiv.org/pdf/2402.07630)**
 
 ## 💻 Technical Blogs
 
-- **Insights, Techniques, and Evaluation for LLM-Driven Knowledge Graphs**
-- **BaseGraph: Largest Biodiversity Knowledge Graph**
-- **GraphRAG Tutorial with PyG and Graph Databases**
-- **Knowledge Graphs on AWS**
-- **Sample Agents for Healthcare and Life Sciences on AWS**
-- **Example Knowledge Graph using UniProt**
+- **[Insights, Techniques, and Evaluation for LLM-Driven Knowledge Graphs](https://developer.nvidia.com/blog/insights-techniques-and-evaluation-for-llm-driven-knowledge-graphs/)**
+- **[BaseGraph: Largest Biodiversity Knowledge Graph](https://developer.nvidia.com/blog/breakthrough-in-functional-annotation-with-hifi-nn/)**
+- **[GraphRAG Tutorial with PyG and Graph Databases](https://developer.nvidia.com/blog/boosting-qa-accuracy-with-graphrag-using-pyg-and-graph-databases/)**
+- **[Knowledge Graphs on AWS](https://aws.amazon.com/neptune/knowledge-graphs-on-aws/)**
+- **[Sample Agents for Healthcare and Life Sciences on AWS](https://aws-samples.github.io/amazon-bedrock-agents-healthcare-lifesciences/)**
+- **[Example Knowledge Graph using UniProt](https://aws.amazon.com/blogs/industries/exploring-the-uniprot-protein-knowledgebase-with-aws-open-data-and-amazon-neptune/)**
 - **[NVIDIA Technical Blog on GraphRAG](https://developer.nvidia.com/blog/boosting-qa-accuracy-with-graphrag-using-pyg-and-graph-databases/)**
 
 ## 🎥 Videos and Talks
