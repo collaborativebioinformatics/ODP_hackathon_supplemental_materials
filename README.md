@@ -4,10 +4,10 @@ A curated collection of resources for the Open Data Knowledge Graph hackathon pa
 
 ## 📚 Relevant Literature and GitHub Repositories
 
+- **[The Unified Biomedical Knowledge Graph (UBKG)](https://github.com/x-atlas-consortia/ubkg-etl)** - Silverstein JC, et al. (2023)
 - **[UBKG Context Schema](https://ubkg.docs.xconsortia.org/contexts/)** - J. Alan Simmons, Jonathan C. Silverstein, Benjamin J. Stear, Taha Mohseni Ahooyi, Deanne M. Taylor: Ontologies and annotation sources
 - **[NIH CFDE Data Distillery GitHub Repository](https://github.com/nih-cfde/data-distillery)** - Mohseni Ahooyi T, Stear B, Nemarich C, Simmons A, Silverstein J, Taylor DM (2025a)
 - **[Homo sapiens Chromosomal Location Ontology](https://doi.org/10.1038/s41597-024-04358-x)** - Mohseni Ahooyi T, et al. (2025b): A framework for genomic data in biomedical knowledge graphs
-- **[The Unified Biomedical Knowledge Graph (UBKG)](https://github.com/x-atlas-consortia/ubkg-etl)** - Silverstein JC, et al. (2023)
 - **[Petagraph](https://doi.org/10.1038/s41597-024-04070-w)** - Stear, B.J., et al. (2024)
 - **[Petagraph Data Source Descriptions](https://github.com/TaylorResearchLab/Petagraph/tree/main/Scientific_Data_2024)** - Stear BJ, Mohseni Ahooyi T, Taylor DM
 - **[Petagraph Project](https://github.com/TaylorResearchLab/Petagraph)** - Stear BJ, Mohseni Ahooyi T, Taylor DM
