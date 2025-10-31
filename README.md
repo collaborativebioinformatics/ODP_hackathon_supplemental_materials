@@ -15,7 +15,7 @@ A curated collection of resources for the Open Data Knowledge Graph hackathon pa
 ## 🎯 Related Cancer Pathway and Drug Prediction Work
 
 - **[BioHackrXiv Preprint](https://osf.io/preprints/biohackrxiv/c5wtr_v1)**
-- **[OSF Project](https://osf.io/vtq5f/download)**
+- **[OSF Project](https://osf.io/vtq5f/download)** - Oncomatch- Optimizing Oncology Combination Therapy Prediction
 - **[GSoC 2025](https://github.com/SuhasiniLulla/GSoC_2025)**
 
 ## 📖 Relevant Knowledge Graph Literature
