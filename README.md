@@ -45,6 +45,7 @@ A curated collection of resources originally put together for the Open Data Know
 - **[Web-Scale Data Integration in Life Sciences](https://www.youtube.com/watch?v=aeL2MBYy6_k&t=213s)**
 - **[Transformer-Based Knowledge Graph Engines for Biomedicine](https://www.nvidia.com/en-us/on-demand/session/other2022-hcls22-s6/)**
 - **[Building GraphRAG solutions using Amazon Bedrock knowledge bases and Amazon Neptune analytics](https://www.youtube.com/watch?v=jknn9ZW_23U)**
+- **[Open Knowledge Bases in the Age of Generative AI - BOSC2025 Keynote 2 Chris Mungall](https://www.youtube.com/watch?v=Lz7I2nB4Q5k)**
 
 ## 📋 Registries
 
